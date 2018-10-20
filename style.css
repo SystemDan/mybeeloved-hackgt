@@ -50,6 +50,11 @@ html {
     padding: 10px;
 }
 
+.main-site p {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
 .profile {
     height: 300px;
     margin-left: auto;
