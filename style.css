@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Mali');
+
+html {
+    font-family: 'Mali', cursive;
+    background-color: #F0F0F0;
+    width: 100%; 
+}
+
+.sidebar {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #C40F25;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidebar h1 {
+    color: #FFFFFF;
+    padding-left: 15%;
+}
+
+.sidebar p {
+    color: #FFFFFF;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.sidebar img {
+    border-radius: 50%;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.main-site {
+    padding-top: 2%;
+    padding-left: 300px;
+}
+
+.main-site h1 {
+    text-align: center;
+}
+
+.main-site th {
+    padding: 10px;
+}
+
+.profile {
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.buttons {
+    margin-top: 40px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
